@@ -1,6 +1,6 @@
 Welcome to my profile! I'm @alejandroad
 
-I have built several projects over my time at the University of Texas at Austin, most notable of which is my heap implementation.
+I have built several projects over my time at the University of Texas at Austin. I really love programming in Java and doing worK on backend or systems.
 
 I am interested in full stack software development as a career, and interested in research as an academic hobby.
 
