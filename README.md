@@ -8,7 +8,7 @@ This past summer, I interned at Amazon as a Software Development Engineer Intern
 
 I am currently looking for resarch opportunitues for spring 2023 at the University of Texas at Austin! My reasoning for this is that I would like to expand on my technical capabilties, and I am very interested in the academic side of CS. I would like to have both industrial and academic experience, and really hone by skills and craft within the field of Computer Science.
 
-Thanks for reading! If you have any inquiries, I can be contacted at: alejandroariasdiaz09@gmai.com
+inquiries: alejandroariasdiaz09@gmai.com
 
 <!---
 alejandroad/alejandroad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
